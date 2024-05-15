@@ -65,19 +65,16 @@ int main(void)
 ISR(PORTD_PORT_vect){	// Button interrupt service routine
 	// Check which pin triggered the interrupt	
 	if (PORTD.INTFLAGS & PIN5_bm) {
-		// Clear the interrupt flag
 		buttondown = 1;
-		PORTD.INTFLAGS = PIN5_bm;		
+		PORTD.INTFLAGS = PIN5_bm;	// Clear the interrupt flag		
 	}
 	else if (PORTD.INTFLAGS & PIN6_bm) {
-		// Clear the interrupt flag
 		buttonenter=1;		
-		PORTD.INTFLAGS = PIN6_bm;		
+		PORTD.INTFLAGS = PIN6_bm;	// Clear the interrupt flag	
 	}
 	else if (PORTD.INTFLAGS & PIN7_bm) {
-		// Clear the interrupt flag
 		buttonup = 1;
-		PORTD.INTFLAGS = PIN7_bm;		
+		PORTD.INTFLAGS = PIN7_bm;	// Clear the interrupt flag	
 	}	
 }
 

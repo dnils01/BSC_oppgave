@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=12V Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Member From Class: ClassName=Krets Member=J3
+Change Component Designator: OldDesignator=J3 NewDesignator=J1
+Added Pin To Net: NetName=12V Pin=J1-2
+Added Pin To Net: NetName=12V Pin=U1-1

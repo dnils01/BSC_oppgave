@@ -1,0 +1,18 @@
+Add Component: Footprint Not Found FP-C0805C-DN-MFG
+Added Component: Designator=U5(SOT-223_N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00000544.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1/11/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "4-Pin SOT-223 Package, 6.5 x 3.5 mm Body, 2.3 mm Pitch, 7 mm Lead Span"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOT-223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "2010"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C23-2
+Add Pin To Net: Unknown Pin: Pin C23-2
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=5V Pin=U5-2
+Added Pin To Net: NetName=12V Pin=U5-3
+Added Pin To Net: NetName=5V Pin=U5-4
+Add Class Member: Failed to add class member : Component C23 C0805C334K5RACAUTO
+Added Member To Class: ClassName=Krets Member=Component U5 LD1117S50CTR

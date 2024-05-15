@@ -1,0 +1,23 @@
+Change Footprint: Cannot match pads with new footprint in component :MP1 Footprint:FP-WA-T220-101E-MFG
+Change Component Comment : Designator=MP1 Old Comment=FA-T220-25E New Comment=WA-T220-101E
+Change Managed Component Library Link : Designator=MP1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=FF0EDCF3-B784-4327-A5FE-C7321D1A5DB5 New ItemGUID=D304A48C-BB6B-4C6D-BEA7-468C0251209B Old RevisionGUID=046D2B68-F198-4F94-BA6B-D11FB359801F New RevisionGUID=B558BC62-4B10-4771-8112-2A41FF98FA1B
+Change component parameters: Designator = "MP1" ("MP1"); Footprint = "FP-FA-T220-25E-MFG"; UniqueID = "\BTXYNZNN" ("\BTXYNZNN")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "TO-220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Finish"; Value = "Anodized"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "30.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height Off Base"; Value = "0.63inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1.201inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Clip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Natural Thermal Resistance"; Value = "12°C/W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Cooled"; Value = "TO-220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shape"; Value = "Fins"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.35oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.72inch"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin MP1-2

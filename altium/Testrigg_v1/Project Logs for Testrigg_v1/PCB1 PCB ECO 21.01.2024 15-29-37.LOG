@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=P7 Old Footprint=61300211121 New Footprint=61300211121
+Change Component Footprint: Designator=P6 Old Footprint=61300411121 New Footprint=61300411121
+Change Net Name : Old Net Name=NetP5_2 New Net Name=Gen_voltage_signal_input
+Change Net Name : Old Net Name=NetP5_3 New Net Name=Gen_current_signal_input

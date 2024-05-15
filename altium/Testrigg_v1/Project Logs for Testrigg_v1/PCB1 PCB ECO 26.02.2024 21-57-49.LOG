@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Gen_current_signal Pin=MCU-20
+Removed Pin From Net: NetName=Gen_voltage_signal Pin=MCU-21
+Removed Pin From Net: NetName=Motor_voltage_sensor Pin=MCU-23
+Added Pin To Net: NetName=Gen_voltage_signal Pin=MCU-20
+Added Pin To Net: NetName=Motor_voltage_sensor Pin=MCU-21
+Added Pin To Net: NetName=Gen_current_signal Pin=MCU-23

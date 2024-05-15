@@ -1,0 +1,17 @@
+Added Component: Designator=MP1(FP-E2A-T220-25E-MFG)
+Add component (AddParameter): Name = "Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Bolt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Natural Thermal Resistance"; Value = "16.4°C/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Cooled"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shape"; Value = "Fins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thermal Resistance @ Forced Air Flow (100 LFM)"; Value = "4°C/W"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=MP1-1
+Added Pin To Net: NetName=GND Pin=MP1-2
+Added Pin To Net: NetName=XTALHFIN Pin=MCU-44
+Added Pin To Net: NetName=XTALHFIN Pin=Y1-1
+Added Net: Name=XTALHFIN
+Added Pin To Net: NetName=XTALHFOUT Pin=MCU-45
+Added Pin To Net: NetName=XTALHFOUT Pin=Y1-2
+Added Net: Name=XTALHFOUT
+Added Member To Class: ClassName=Krets Member=Component MP1 E2A-T220-25E

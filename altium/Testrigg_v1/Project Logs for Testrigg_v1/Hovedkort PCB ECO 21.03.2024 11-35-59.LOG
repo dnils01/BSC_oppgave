@@ -1,0 +1,5 @@
+Change Footprint: Footprint Not Found FP-FA-T220-25E-MFG
+Change Component Designator: OldDesignator=MP1 NewDesignator=MP2
+Add Pin To Net: Unknown Pin: Pin MP2-2
+Change Net Name : Old Net Name=NetMP1_1 New Net Name=NetMP2_1
+Added Member To Class: ClassName=Hovedkort Member=Component MP2 WA-T220-101E

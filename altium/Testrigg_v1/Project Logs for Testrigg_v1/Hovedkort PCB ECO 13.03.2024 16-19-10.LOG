@@ -1,0 +1,2 @@
+Change Net Name : Old Net Name=MISO New Net Name=USART TX-RX
+Change Net Name : Old Net Name=MOSI New Net Name=USART RX-TX

@@ -1,0 +1,89 @@
+Removed Pin From Net: NetName=GND Pin=J3-2
+Removed Pin From Net: NetName=Gen_current_signal Pin=MCU-21
+Removed Pin From Net: NetName=Gen_current_signal Pin=MCU-23
+Removed Pin From Net: NetName=Gen_cont_signal Pin=MCU-27
+Removed Pin From Net: NetName=Generator_pos Pin=R1-2
+Change Component Footprint: Designator=J3 Old Footprint=691103110002 New Footprint=691103110002
+Change Component Designator: OldDesignator=J3 NewDesignator=J4
+Added Component: Designator=R3(RESC3116X65X50NL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW120610K0FKEAHP"; VariantName = "[No Variations]"
+Added Component: Designator=U1(TO220)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00000444.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/PACKAGE_INFORMATION/CD00004649.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "16/11/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Thru-Hole, Vertical, Heatsink Mounted; 3 In-Line Leads; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TO220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "ver3.0"; VariantName = "[No Variations]"
+Added Component: Designator=U2(TO220)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00000449.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/PACKAGE_INFORMATION/CD00004649.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1/03/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Thru-Hole, Vertical, Heatsink Mounted; 3 In-Line Leads; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TO220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "ver3.0"; VariantName = "[No Variations]"
+Added Component: Designator=VR1(BOUR-3362P)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0612"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1632"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.bourns.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.bourns.com/docs/Product-Datasheets/3362.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "May-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Through Hole Device, Body 6.6 x 6.99 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3326P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "50 mohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "220 mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.6 mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Motor_Current_sensor Pin=J2-2
+Added Pin To Net: NetName=Generator_pos Pin=J3-1
+Added Pin To Net: NetName=Motor_ut_pos Pin=MCU-21
+Added Pin To Net: NetName=Gen_cont_signal Pin=MCU-45
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=Motor_Current_sensor Pin=R2-2
+Added Pin To Net: NetName=Gen_current_signal Pin=R3-1
+Added Pin To Net: NetName=24V Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=5V Pin=U1-3
+Added Pin To Net: NetName=24V Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=5V Pin=U2-3
+Added Pin To Net: NetName=5V Pin=U3-5
+Added Pin To Net: NetName=Gen_cont_signal Pin=VR1-1
+Added Pin To Net: NetName=GND Pin=VR1-3
+Added Pin To Net: NetName=Gen_voltage_signal Pin=MCU-23
+Added Pin To Net: NetName=Gen_voltage_signal Pin=VR1-2
+Added Net: Name=Gen_voltage_signal
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=R1-2
+Added Pin To Net: NetName=NetJ3_2 Pin=R3-2
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetMCU_27 Pin=MCU-27
+Added Pin To Net: NetName=NetMCU_27 Pin=U3-2
+Added Net: Name=NetMCU_27
+Added Member To Class: ClassName=Krets Member=Component J4 691103110002
+Added Member To Class: ClassName=Krets Member=Component R3 CRCW120610K0FKEAHP
+Added Member To Class: ClassName=Krets Member=Component U1 L7805CV
+Added Member To Class: ClassName=Krets Member=Component U2 L78S12CV
+Added Member To Class: ClassName=Krets Member=Component VR1 3362P-1-103LF

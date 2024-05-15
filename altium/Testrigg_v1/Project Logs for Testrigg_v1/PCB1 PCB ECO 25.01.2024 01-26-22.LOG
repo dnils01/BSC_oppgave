@@ -1,0 +1,9 @@
+Added Component: Designator=R13(RESC2013X70X40NL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-6GEYJ303V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=U3-4
+Added Net: Name=NetR13_1
+Added Member To Class: ClassName=Krets Member=Component R2 TNPW08051K00BETA
+Added Member To Class: ClassName=Krets Member=Component R13 ERJ-6GEYJ303V

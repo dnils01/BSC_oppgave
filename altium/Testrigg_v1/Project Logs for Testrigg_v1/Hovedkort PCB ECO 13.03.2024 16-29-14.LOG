@@ -1,0 +1,14 @@
+Change Net Name : Old Net Name=USART RX-TX New Net Name=USART0 RX-TX
+Change Net Name : Old Net Name=USART TX-RX New Net Name=USART0 TX-RX
+Added Pin To Net: NetName=USART1 RX Pin=P9-2
+Added Pin To Net: NetName=USART1 RX Pin=U1-7
+Added Net: Name=USART1 RX
+Added Pin To Net: NetName=USART1 TX Pin=P9-1
+Added Pin To Net: NetName=USART1 TX Pin=U1-6
+Added Net: Name=USART1 TX
+Added Pin To Net: NetName=USART3 RX Pin=MCU1-5
+Added Pin To Net: NetName=USART3 RX Pin=P1-2
+Added Net: Name=USART3 RX
+Added Pin To Net: NetName=USART3 TX Pin=MCU1-4
+Added Pin To Net: NetName=USART3 TX Pin=P1-1
+Added Net: Name=USART3 TX

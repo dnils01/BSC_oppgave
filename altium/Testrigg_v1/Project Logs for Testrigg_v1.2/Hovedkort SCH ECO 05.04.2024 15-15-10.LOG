@@ -1,0 +1,17 @@
+Remove Pin=IC?-4 From Net=USART RX
+Remove Pin=IC?-5 From Net=USART TX
+Remove Pin=IC?-8 From Net=Opto_Generator
+Remove Pin=IC?-9 From Net=Opto_Motor
+Remove Pin=IC?-20 From Net=Gen_voltage_signal
+Remove Pin=IC?-21 From Net=Motor_voltage_sensor
+Remove Pin=IC?-22 From Net=Motor_Current_sensor
+Remove Pin=IC?-23 From Net=Gen_current_signal
+Remove Pin=IC?-24 From Net=Analog_in
+Remove Pin=IC?-25 From Net=AnalogOut_2.5V
+Remove Pin=IC?-30 From Net=Motor_brake
+Remove Pin=IC?-40 From Net=!RESET_48
+Remove Pin=IC?-41 From Net=UPDI_48
+Remove Pin=IC?-44 From Net=XTALHFIN
+Remove Pin=IC?-45 From Net=XTALHFOUT
+Remove Pin=IC?-46 From Net=PWM_motor
+Remove Pin=IC?-48 From Net=MCU1 TX-RX MCU2

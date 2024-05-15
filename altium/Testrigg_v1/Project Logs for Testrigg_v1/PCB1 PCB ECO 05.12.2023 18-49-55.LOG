@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=P2 Old Footprint=61300211121 New Footprint=61300211121
+Change Component Footprint: Designator=P4 Old Footprint=61300211121 New Footprint=61300211121
+Change Component Footprint: Designator=P1 Old Footprint=61300411121 New Footprint=61300411121
+Change Component Footprint: Designator=P3 Old Footprint=61300411121 New Footprint=61300411121
+Change Component Footprint: Designator=J1 Old Footprint=691103110002 New Footprint=691103110002
+Change Component Footprint: Designator=J2 Old Footprint=691103110002 New Footprint=691103110002
+Change Component Footprint: Designator=J3 Old Footprint=691103110002 New Footprint=691103110002
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=Motor_ut_A

@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=U1 NewDesignator=U5
+Change Component Designator: OldDesignator=U2 NewDesignator=U4
+Change Component Designator: OldDesignator=U3 NewDesignator=U1
+Change Component Designator: OldDesignator=U4 NewDesignator=U6
+Change Component Designator: OldDesignator=U5 NewDesignator=U2
+Added Member To Class: ClassName=Krets Member=Component C24 08055C104KAT2A
+Added Member To Class: ClassName=Krets Member=Component P2 61300411121
+Added Member To Class: ClassName=Krets Member=Component P4 61300311121
+Added Member To Class: ClassName=Krets Member=Component R22 ERJ6ENF56R0V
+Added Member To Class: ClassName=Krets Member=Component U5 L7805CV
+Added Member To Class: ClassName=Krets Member=Component U6 ACS712ELCTR-05B-T

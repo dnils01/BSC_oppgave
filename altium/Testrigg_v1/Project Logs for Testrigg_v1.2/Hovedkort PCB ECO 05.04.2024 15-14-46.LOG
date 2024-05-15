@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=GND Pin=D4-3
+Removed Pin From Net: NetName=USART RX Pin=MCU1-4
+Removed Pin From Net: NetName=USART TX Pin=MCU1-5
+Removed Pin From Net: NetName=Opto_Generator Pin=MCU1-8
+Removed Pin From Net: NetName=Opto_Motor Pin=MCU1-9
+Removed Pin From Net: NetName=3V3 Pin=MCU1-14
+Removed Pin From Net: NetName=GND Pin=MCU1-15
+Removed Pin From Net: NetName=Gen_voltage_signal Pin=MCU1-20
+Removed Pin From Net: NetName=Motor_voltage_sensor Pin=MCU1-21
+Removed Pin From Net: NetName=Motor_Current_sensor Pin=MCU1-22
+Removed Pin From Net: NetName=Gen_current_signal Pin=MCU1-23
+Removed Pin From Net: NetName=Analog_in Pin=MCU1-24
+Removed Pin From Net: NetName=AnalogOut_2.5V Pin=MCU1-25
+Removed Pin From Net: NetName=3V3 Pin=MCU1-28
+Removed Pin From Net: NetName=GND Pin=MCU1-29
+Removed Pin From Net: NetName=Motor_brake Pin=MCU1-30
+Removed Pin From Net: NetName=!RESET_48 Pin=MCU1-40
+Removed Pin From Net: NetName=UPDI_48 Pin=MCU1-41
+Removed Pin From Net: NetName=3V3 Pin=MCU1-42
+Removed Pin From Net: NetName=GND Pin=MCU1-43
+Removed Pin From Net: NetName=XTALHFIN Pin=MCU1-44
+Removed Pin From Net: NetName=XTALHFOUT Pin=MCU1-45
+Removed Pin From Net: NetName=PWM_motor Pin=MCU1-46
+Removed Member From Class: ClassName=Hovedkort Member=MCU1
+Change Component Footprint: Designator=D4 Old Footprint=ONSC-SOT-23-3-318-08_V New Footprint=ONSC-SC-70-3-419-04_V
+Change Component Comment : Designator=D4 Old Comment=MMBZ6V2ALT1G New Comment=SZMMBZ27VAWT1G
+Change Managed Component Library Link : Designator=D4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=2385694F-655E-40FE-A712-0B6BBAF9B43A New ItemGUID=FBBF397A-53D1-4772-A3B9-EBB82F8066E4 Old RevisionGUID=504101DE-2AB4-43D0-9C6C-39165C347CF3 New RevisionGUID=5EA155EC-68AD-4BB9-9C7F-19BC7BBCC931
+Change component parameters: Designator = "D4" ("D4"); Footprint = "ONSC-SOT-23-3-318-08_V"; UniqueID = "\PXTYQKNS" ("\PXTYQKNS")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/MMBZ27VAW-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/419-04.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Direction"; Value = "Unidirectional"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IR Max (uA)"; Value = "0.05"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin Small Outline Transistor, Body 2 x 1.25 mm, Pitch 0.65 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SC-70-3-419-04"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Rev. N, 11/2008"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "SZMMBZ27VAWT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PPK Max (W)"; Value = "40"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Pb-Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "V(BR) Typ (V)"; Value = "27"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found QFP50P900X900X120-48N
+Add Pin To Net: Unknown Pin: Pin IC?-4
+Add Pin To Net: Unknown Pin: Pin IC?-5
+Add Pin To Net: Unknown Pin: Pin IC?-8
+Add Pin To Net: Unknown Pin: Pin IC?-9
+Add Pin To Net: Unknown Pin: Pin IC?-14
+Add Pin To Net: Unknown Pin: Pin IC?-15
+Add Pin To Net: Unknown Pin: Pin IC?-20
+Add Pin To Net: Unknown Pin: Pin IC?-21
+Add Pin To Net: Unknown Pin: Pin IC?-22
+Add Pin To Net: Unknown Pin: Pin IC?-23
+Add Pin To Net: Unknown Pin: Pin IC?-24
+Add Pin To Net: Unknown Pin: Pin IC?-25
+Add Pin To Net: Unknown Pin: Pin IC?-28
+Add Pin To Net: Unknown Pin: Pin IC?-29
+Add Pin To Net: Unknown Pin: Pin IC?-30
+Add Pin To Net: Unknown Pin: Pin IC?-40
+Add Pin To Net: Unknown Pin: Pin IC?-41
+Add Pin To Net: Unknown Pin: Pin IC?-42
+Add Pin To Net: Unknown Pin: Pin IC?-43
+Add Pin To Net: Unknown Pin: Pin IC?-44
+Add Pin To Net: Unknown Pin: Pin IC?-45
+Add Pin To Net: Unknown Pin: Pin IC?-46
+Added Net: Name=MCU1 TX-RX MCU2
+Add Class Member: Failed to add class member : Component IC? AVR128DB48-I_PT

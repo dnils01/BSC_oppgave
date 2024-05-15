@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=POWER_LED Pin=R6-1
+Added Component: Designator=R13(RESC2013X70X40ML20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ6ENF3301V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Potmeter Pin=R6-2
+Added Pin To Net: NetName=POWER_LED Pin=R13-2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=R13-1
+Added Net: Name=NetR6_1
+Added Member To Class: ClassName=Knapper og leds Member=Component R13 ERJ6ENF3301V

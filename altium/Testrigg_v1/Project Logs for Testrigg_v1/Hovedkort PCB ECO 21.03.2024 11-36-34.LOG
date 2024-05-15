@@ -1,0 +1,27 @@
+Removed Member From Class: ClassName=Hovedkort Member=MP2
+Added Component: Designator=MP1(FP-FA-T220-25E-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Finish"; Value = "Anodized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "25.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height Off Base"; Value = "0.984inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "41.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Bolt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Natural Thermal Resistance"; Value = "4.7°C/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Cooled"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shape"; Value = "Fins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thermal Resistance @ Forced Air Flow (100 LFM)"; Value = "3°C/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "18g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "25mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetMP1_1 Pin=MP1-1
+Added Pin To Net: NetName=NetMP1_1 Pin=MP1-1
+Added Pin To Net: NetName=NetMP1_1 Pin=Q1-3
+Added Pin To Net: NetName=NetMP1_1 Pin=R18-2
+Added Net: Name=NetMP1_1
+Added Member To Class: ClassName=Hovedkort Member=Component MP1 FA-T220-25E

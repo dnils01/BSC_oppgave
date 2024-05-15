@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=U1 Old Footprint=ONSC-D2PAK-3-936-03_V New Footprint=FP-LJ-8-MFG
+Change Component Comment: Designator=U1 Old Comment=MC7805CD2TR4G New Comment=A4950ELJTR-T
+Change Pin Designator/Name:  Old Designator=MCU-12 Old Name=PC2 New Designator =PA3 New Name=47
+Change Pin Designator/Name:  Old Designator=MCU-13 Old Name=PC3 New Designator =PA2 New Name=46
+Change Pin Designator/Name:  Old Designator=MCU-27 Old Name=PD7 New Designator =PC2 New Name=12
+Change Pin Designator/Name:  Old Designator=MCU-45 Old Name=PA1 New Designator =PD7 New Name=27
+Change Pin Designator/Name:  Old Designator=MCU-46 Old Name=PA2 New Designator =PC3 New Name=13
+Change Pin Designator/Name:  Old Designator=MCU-47 Old Name=PA3 New Designator =PA1 New Name=45
+Change Pin Designator/Name:  Old Designator=U1-1 Old Name=IN New Designator =OUT New Name=3
+Change Pin Designator/Name:  Old Designator=U1-3 Old Name=OUT New Designator =GND New Name=4
+Change Pin Designator/Name:  Old Designator=U1-4 Old Name=GND New Designator =IN New Name=1

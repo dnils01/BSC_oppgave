@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=AnalogOut_2.5V Pin=U7-1
+Removed Pin From Net: NetName=NetR13_2 Pin=U7-3
+Removed Pin From Net: NetName=NetP6_1 Pin=U7-4
+Removed Pin From Net: NetName=12V Pin=U7-5
+Removed Member From Class: ClassName=Hovedkort Member=U7
+Change Component Footprint: Designator=U? Old Footprint=FP-DCK0005A-MFG New Footprint=FP-DCK0005A-MFG
+Added Pin To Net: NetName=AnalogOut_2.5V Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=NetR13_2 Pin=U?-3
+Added Pin To Net: NetName=NetP6_1 Pin=U?-4
+Added Pin To Net: NetName=12V Pin=U?-5

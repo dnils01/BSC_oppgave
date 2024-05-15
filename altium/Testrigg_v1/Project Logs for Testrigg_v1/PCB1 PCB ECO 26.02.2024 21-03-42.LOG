@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=SW1 Pin=MCU-31
+Removed Pin From Net: NetName=SW2 Pin=MCU-32
+Removed Pin From Net: NetName=SW3 Pin=MCU-33
+Removed Pin From Net: NetName=LED0 Pin=MCU-34
+Removed Pin From Net: NetName=LED1 Pin=MCU-35
+Removed Pin From Net: NetName=LED2 Pin=MCU-36
+Removed Pin From Net: NetName=LED3 Pin=MCU-37
+Change Component Footprint: Designator=P11 Old Footprint=61300211121 New Footprint=61300211121
+Change Component Footprint: Designator=P10 Old Footprint=61300311121 New Footprint=61300311121
+Change Component Footprint: Designator=P9 Old Footprint=61300411121 New Footprint=61300411121
+Added Pin To Net: NetName=3V3 Pin=C17-1
+Added Pin To Net: NetName=3V3 Pin=C18-2
+Added Pin To Net: NetName=3V3 Pin=C19-1
+Added Pin To Net: NetName=3V3 Pin=C20-2
+Added Pin To Net: NetName=3V3 Pin=U7-10
+Added Pin To Net: NetName=SW1 Pin=U7-15
+Added Pin To Net: NetName=SW2 Pin=U7-16
+Added Pin To Net: NetName=SW3 Pin=U7-17
+Added Pin To Net: NetName=LED0 Pin=U7-20
+Added Pin To Net: NetName=LED1 Pin=U7-21
+Added Pin To Net: NetName=LED2 Pin=U7-22
+Added Pin To Net: NetName=LED3 Pin=U7-23
+Added Pin To Net: NetName=3V3 Pin=U7-28
+Added Member To Class: ClassName=Krets Member=Component MP1 E2A-T220-25E

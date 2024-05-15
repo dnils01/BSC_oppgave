@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=24V Pin=C25-1
+Removed Pin From Net: NetName=GND Pin=C25-2
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=24V Pin=C26-2
+Removed Pin From Net: NetName=GND Pin=C27-1
+Removed Pin From Net: NetName=GND Pin=C28-1
+Removed Pin From Net: NetName=24V Pin=L1-1
+Removed Member From Class: ClassName=Krets Member=C26
+Removed Member From Class: ClassName=Krets Member=C27
+Removed Member From Class: ClassName=Krets Member=C28
+Removed Member From Class: ClassName=Krets Member=L1
+Change Component Footprint: Designator=C25 Old Footprint=CAPPR65-500-1600X1000X1700 New Footprint=FP-FKC-MFG
+Change Component Comment : Designator=C25 Old Comment=ECA-2AM101 New Comment=EEEFK1V220R
+Change Managed Component Library Link : Designator=C25 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=3FE66894-2B26-40B9-88B1-3C3048E92D3D New ItemGUID=265642FF-711A-4A03-A7E7-401B03347E9D Old RevisionGUID=280EB5CE-225F-433F-A066-41BF0C825F00 New RevisionGUID=6F945DA3-AB88-4910-A3FD-6BE22D98E426
+Change component parameters: Designator = "C25" ("C25"); Footprint = "CAPPR65-500-1600X1000X1700"; UniqueID = "\SDRCOHVU" ("\SDRCOHVU")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Construction"; Value = "Cylindrical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "700mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.228inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "700mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leakage Current"; Value = "3uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "5.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Life (Hours)"; Value = "2000Hour"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "160mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current (AC)"; Value = "160mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "FK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "35V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "35V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "6.5mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=24V Pin=C25-2
+Added Pin To Net: NetName=24V Pin=PS1-1
+Added Member To Class: ClassName=Krets Member=Component PS1 P7812-2000R-S

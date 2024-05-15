@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=Motor_voltage_sensor Pin=R3-2
+Removed Pin From Net: NetName=Gen_voltage_signal Pin=R11-2
+Added Component: Designator=U8(FP-DCK0005A-IPC_B)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=U9(FP-DCK0005A-IPC_B)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U8-2
+Added Pin To Net: NetName=Motor_voltage_sensor Pin=U8-3
+Added Pin To Net: NetName=Motor_voltage_sensor Pin=U8-4
+Added Pin To Net: NetName=5V Pin=U8-5
+Added Pin To Net: NetName=GND Pin=U9-2
+Added Pin To Net: NetName=Gen_voltage_signal Pin=U9-3
+Added Pin To Net: NetName=Gen_voltage_signal Pin=U9-4
+Added Pin To Net: NetName=5V Pin=U9-5
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U8-1
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=U9-1
+Added Net: Name=NetR11_2
+Added Member To Class: ClassName=Krets Member=Component U8 LM321LVIDCKR
+Added Member To Class: ClassName=Krets Member=Component U9 LM321LVIDCKR

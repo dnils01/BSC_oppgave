@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=R6 Old Footprint=RESC2013X70X40ML20T20 New Footprint=RESC2013X50X30LL20T20
+Change Component Footprint: Designator=R20 Old Footprint=RESC2013X70X40ML20T20 New Footprint=RESC2013X50X30LL20T20
+Change Component Comment : Designator=R6 Old Comment=ERJ6ENF3301V New Comment=CRCW08050000Z0EA
+Change Component Comment : Designator=R20 Old Comment=ERJ6ENF3301V New Comment=CRCW08050000Z0EA
+Change Managed Component Library Link : Designator=R6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=AEFB3A92-A836-4A30-8816-51D7D164735F New ItemGUID=78462138-499A-4A0D-A527-3027AB8F838F Old RevisionGUID=785595D9-02A3-49C3-88C2-6C911ECFCC87 New RevisionGUID=B8426C4C-D616-46EA-83DD-42D624EF6A27
+Change Managed Component Library Link : Designator=R20 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=AEFB3A92-A836-4A30-8816-51D7D164735F New ItemGUID=78462138-499A-4A0D-A527-3027AB8F838F Old RevisionGUID=785595D9-02A3-49C3-88C2-6C911ECFCC87 New RevisionGUID=B8426C4C-D616-46EA-83DD-42D624EF6A27
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RESC2013X70X40ML20T20"; UniqueID = "\LQVQKKIB" ("\LQVQKKIB")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW08050000Z0EA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20" ("R20"); Footprint = "RESC2013X70X40ML20T20"; UniqueID = "\FRYIOFUM" ("\FRYIOFUM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW08050000Z0EA"; VariantName = "[No Variations]"

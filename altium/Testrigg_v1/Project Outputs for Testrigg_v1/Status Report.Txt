@@ -1,0 +1,42 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [Testrigg_v1.PrjPcb]
+   Generated File[Hovedkort_Copper_Signal_Top.gbr]
+   Generated File[Hovedkort_Copper_Signal_Bot.gbr]
+   Generated File[Hovedkort_Pads_Bot.gbr]
+   Generated File[Hovedkort_Pads_Top.gbr]
+   Generated File[Hovedkort_Legend_Top.gbr]
+   Generated File[Hovedkort_Legend_Bot.gbr]
+   Generated File[Hovedkort_Soldermask_Top.gbr]
+   Generated File[Hovedkort_Soldermask_Bot.gbr]
+   Generated File[Hovedkort_Paste_Top.gbr]
+   Generated File[Hovedkort_Paste_Bot.gbr]
+   Generated File[Hovedkort_Keep-out.gbr]
+   Generated File[Hovedkort_Mechanical_1.gbr]
+   Generated File[Hovedkort_Top_3D_Body.gbr]
+   Generated File[Hovedkort_Top_Courtyard.gbr]
+   Generated File[Hovedkort_Top_Designator.gbr]
+   Generated File[Hovedkort_Top_Assembly.gbr]
+   Generated File[Hovedkort_Bottom_Designator.gbr]
+   Generated File[Hovedkort_Top_Component_Outline.gbr]
+   Generated File[Hovedkort_Bottom_Component_Outline.gbr]
+   Generated File[Hovedkort_Mechanical_13.gbr]
+   Generated File[Hovedkort_Mechanical_15.gbr]
+   Generated File[Hovedkort_Top_Component_Center.gbr]
+   Generated File[Hovedkort_Bottom_Assembly.gbr]
+   Generated File[Hovedkort_Bottom_Courtyard.gbr]
+   Generated File[Hovedkort_Bottom_3D_Body.gbr]
+   Generated File[Hovedkort_Bottom_Component_Center.gbr]
+   Generated File[Hovedkort_Profile.gbr]
+   Generated File[Hovedkort_NPTH_Drill.gbr]
+   Generated File[Hovedkort_PTH_Drill.gbr]
+   Generated File[Hovedkort_Drawing_1.gbr]
+   Generated File[Hovedkort_Drillmap_1.gbr]
+   Generated File[Hovedkort.EXTREP]
+   Generated File[Hovedkort.REP]
+
+
+Files Generated   : 33
+Documents Printed : 0
+
+Finished Output Generation At 13:01:16 On 21.03.2024

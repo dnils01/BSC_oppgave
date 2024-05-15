@@ -1,0 +1,33 @@
+Added Component: Designator=IC?(QFP50P900X900X120-48N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "AVR128DB48-I/PT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/avr128db48-ipt/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://ww1.microchip.com/downloads/en/DeviceDoc/AVR128DB28-32-48-64-DataSheet-DS40002247A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AVR128DB48-I/PT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-AVR128DB48-I/PT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/AVR128DB48-I-PT?qs=vmHwEFxEFR8J6TEwJS0Zlw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USART RX Pin=IC?-4
+Added Pin To Net: NetName=USART TX Pin=IC?-5
+Added Pin To Net: NetName=Opto_Generator Pin=IC?-8
+Added Pin To Net: NetName=Opto_Motor Pin=IC?-9
+Added Pin To Net: NetName=3V3 Pin=IC?-14
+Added Pin To Net: NetName=GND Pin=IC?-15
+Added Pin To Net: NetName=Gen_voltage_signal Pin=IC?-20
+Added Pin To Net: NetName=Motor_voltage_sensor Pin=IC?-21
+Added Pin To Net: NetName=Motor_Current_sensor Pin=IC?-22
+Added Pin To Net: NetName=Gen_current_signal Pin=IC?-23
+Added Pin To Net: NetName=Analog_in Pin=IC?-24
+Added Pin To Net: NetName=AnalogOut_2.5V Pin=IC?-25
+Added Pin To Net: NetName=3V3 Pin=IC?-28
+Added Pin To Net: NetName=GND Pin=IC?-29
+Added Pin To Net: NetName=Motor_brake Pin=IC?-30
+Added Pin To Net: NetName=!RESET_48 Pin=IC?-40
+Added Pin To Net: NetName=UPDI_48 Pin=IC?-41
+Added Pin To Net: NetName=3V3 Pin=IC?-42
+Added Pin To Net: NetName=GND Pin=IC?-43
+Added Pin To Net: NetName=XTALHFIN Pin=IC?-44
+Added Pin To Net: NetName=XTALHFOUT Pin=IC?-45
+Added Pin To Net: NetName=PWM_motor Pin=IC?-46
+Added Pin To Net: NetName=MCU1 TX-RX MCU2 Pin=IC?-48
+Added Member To Class: ClassName=Hovedkort Member=Component IC? AVR128DB48-I_PT

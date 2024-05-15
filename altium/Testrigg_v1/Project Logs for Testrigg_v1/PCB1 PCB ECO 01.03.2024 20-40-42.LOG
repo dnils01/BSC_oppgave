@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=L1 Old Footprint=WE-PD4_Type L New Footprint=WE-PD4_Type L
+Added Pin To Net: NetName=12V Pin=C31-1
+Added Pin To Net: NetName=12V Pin=L1-2

@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=NetC28_1 Pin=C28-1
+Removed Pin From Net: NetName=GND Pin=C28-2
+Change Component Footprint: Designator=P9 Old Footprint=61300411121 New Footprint=61300411121
+Change Component Footprint: Designator=C28 Old Footprint=FP-GRM188-0_1-e0_2_0_5-IPC_B New Footprint=FP-GRM216-0_1-IPC_A
+Change Component Comment : Designator=C28 Old Comment=GRM1885C1H162JA01D New Comment=GRM2165C2A162JA01D
+Change Managed Component Library Link : Designator=C28 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=28355E5A-F98F-4657-A2BD-309861116395 New ItemGUID=3A5BF90B-BF1B-48E2-BDDE-F8F9EB0E39DD Old RevisionGUID=C7055AD7-B850-4A8E-B7F8-E63FE3CE0547 New RevisionGUID=528263E2-D50B-43B4-9AC7-501BB7B21B35
+Change component parameters: Designator = "C28" ("C28"); Footprint = "FP-GRM188-0_1-e0_2_0_5-IPC_B"; UniqueID = "\ZQTVESQM" ("\ZQTVESQM")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "1.6nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Construction"; Value = "Flat"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "C0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "4000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "GRM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.028inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.000194oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=NetC28_1 Pin=C28-2
+Change Net Name : Old Net Name=NetC28_1 New Net Name=NetC28_2

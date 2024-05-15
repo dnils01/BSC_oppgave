@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Added Pin To Net: NetName=Motor_in_A Pin=MCU-17

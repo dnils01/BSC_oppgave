@@ -1,0 +1,33 @@
+Change Component Footprint: Designator=P2 Old Footprint=61300211121 New Footprint=61300211121
+Change Component Footprint: Designator=P4 Old Footprint=61300211121 New Footprint=61300211121
+Change Component Footprint: Designator=P1 Old Footprint=61300411121 New Footprint=61300411121
+Change Component Footprint: Designator=P3 Old Footprint=61300411121 New Footprint=61300411121
+Change Component Footprint: Designator=J1 Old Footprint=691103110002 New Footprint=691103110002
+Change Component Footprint: Designator=J2 Old Footprint=691103110002 New Footprint=691103110002
+Change Component Footprint: Designator=J3 Old Footprint=691103110002 New Footprint=691103110002
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=Motor_ut_A
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=Motor_ut_B
+Change Net Name : Old Net Name=NetJ3_1 New Net Name=Generator_pos
+Change Net Name : Old Net Name=NetJ3_2 New Net Name=Generator_neg
+Change Net Name : Old Net Name=NetMCU_20 New Net Name=Optocoupler_pos
+Change Net Name : Old Net Name=NetMCU_21 New Net Name=Current_sensor_pos
+Change Net Name : Old Net Name=NetMCU_40 New Net Name=!RESET
+Change Net Name : Old Net Name=NetMCU_41 New Net Name=UPDI
+Added Pin To Net: NetName=Gen_cont_signal Pin=MCU-27
+Added Pin To Net: NetName=Gen_cont_signal Pin=Q2-1
+Added Net: Name=Gen_cont_signal
+Added Pin To Net: NetName=Motor_in_A Pin=MCU-23
+Added Pin To Net: NetName=Motor_in_A Pin=U1-3
+Added Net: Name=Motor_in_A
+Added Pin To Net: NetName=Motor_in_B Pin=MCU-22
+Added Pin To Net: NetName=Motor_in_B Pin=U1-2
+Added Net: Name=Motor_in_B
+Added Pin To Net: NetName=PWM Pin=MCU-44
+Added Pin To Net: NetName=PWM Pin=U1-9
+Added Net: Name=PWM
+Added Pin To Net: NetName=SCL Pin=MCU-47
+Added Pin To Net: NetName=SCL Pin=P3-3
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=MCU-46
+Added Pin To Net: NetName=SDA Pin=P3-2
+Added Net: Name=SDA

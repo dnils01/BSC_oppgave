@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=MISO Pin=MCU1-1
+Removed Pin From Net: NetName=SCK Pin=MCU1-2
+Removed Pin From Net: NetName=!SS Pin=MCU1-3
+Removed Pin From Net: NetName=MOSI Pin=MCU1-48
+Change Component DesignItemId : Designator=MCU1 Old DesignItemId=AVR128DB48-I/PT New DesignItemId=
+Change Component Library : Designator=MCU1 Old Library=Custom parts.IntLib New Library=AVR128DB48T-EPT.IntLib

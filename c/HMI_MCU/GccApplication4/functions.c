@@ -55,7 +55,7 @@ void LEDS_init(void){
 
 void button_init(void){
 	PORTD.DIRCLR   = PIN5_bm | PIN6_bm | PIN7_bm;	// Clear pins
-	PORTD.PIN5CTRL = PORT_ISC_FALLING_gc; //PORT_PULLUPEN_bm | 	//Enable pullup and interrupt on falling edge
+	PORTD.PIN5CTRL = PORT_ISC_FALLING_gc; //Enable interrupt on falling edge
 	PORTD.PIN6CTRL = PORT_ISC_FALLING_gc;
 	PORTD.PIN7CTRL = PORT_ISC_FALLING_gc;		
 }

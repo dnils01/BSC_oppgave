@@ -1,0 +1,9 @@
+Remove Pin=J3A-1 From Net=LED0
+Remove Pin=J3A-3 From Net=LED1
+Remove Pin=J3B-4 From Net=SW1
+Remove Pin=J3A-5 From Net=LED2
+Remove Pin=J3B-6 From Net=SW2
+Remove Pin=J3A-7 From Net=LED3
+Remove Pin=J3B-8 From Net=SW3
+Change Pin Designator/Name:  Old Designator=U7-2 Old Name=PA4 New Designator =PA5 New Name=3
+Change Pin Designator/Name:  Old Designator=U7-3 Old Name=PA5 New Designator =PA4 New Name=2

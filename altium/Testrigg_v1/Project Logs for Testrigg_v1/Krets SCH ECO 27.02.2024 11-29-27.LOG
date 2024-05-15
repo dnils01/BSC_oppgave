@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C23 Old Footprint=CAPC2013X100X50NL20T25 New Footprint=FP-C0805C-DN-MFG
+Change Component Footprint: Designator=U5 Old Footprint=TO-252_N New Footprint=TO220
+Change Component Comment: Designator=C23 Old Comment=C0805F103K5RACTU New Comment=C0805C334K5RACAUTO
+Change Component Comment: Designator=U5 Old Comment=LD1117DT50CTR New Comment=L7805CV
+Change Pin Designator/Name:  Old Designator=C23-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=U5-3 Old Name=VIN New Designator =GND New Name=1
+Change Pin Designator/Name:  Old Designator=U5-4 Old Name=VOUT New Designator =VIN New Name=3

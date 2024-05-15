@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=MP1-1
+Added Pin To Net: NetName=GND Pin=MP1-1
+Added Pin To Net: NetName=GND Pin=Q2-3
+Change Net Name : Old Net Name=GND New Net Name=Generator_neg

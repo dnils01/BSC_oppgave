@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=D4-2
+Change Component Footprint: Designator=D4 Old Footprint=FP-SMA-MFG New Footprint=ONSC-SOT-723-3-631AA-01_V
+Change Component Comment : Designator=D4 Old Comment=SMAJ5.0A-TR New Comment=ESD7L5.0DT5G
+Change Managed Component Library Link : Designator=D4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=7CE4D65A-F072-4FDC-9E53-9EE39138AEF9 New ItemGUID=FE46381B-434F-4A39-9636-B32E31B6DEB6 Old RevisionGUID=2560B051-8A91-4592-BE8D-53D084164473 New RevisionGUID=8D86B4B1-406C-48F6-B012-2A7C128878B0
+Change component parameters: Designator = "D4" ("D4"); Footprint = "FP-SMA-MFG"; UniqueID = "\TANBNSYT" ("\TANBNSYT")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/ESD7L-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/631AA.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Direction"; Value = "Unidirectional"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IR Max (uA)"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Lines"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin Small Outline Transistor, Body 1.2 x 0.8 mm, Pitch 0.4 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SOT-723-3-631AA-01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Rev. D, 08/2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "ESD7L5.0DT5G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Pb-Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "V(BR) Min (V)"; Value = "5.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VRWM Max (V)"; Value = "5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD4_1 Pin=D4-2
+Added Pin To Net: NetName=GND Pin=D4-3

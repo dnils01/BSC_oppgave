@@ -1,0 +1,24 @@
+Change Component Footprint: Designator=MP1 Old Footprint=FP-FA-T220-38E-MFG New Footprint=FP-FA-T220-25E-MFG
+Change Component Comment : Designator=MP1 Old Comment=FA-T220-38E New Comment=FA-T220-25E
+Change Managed Component Library Link : Designator=MP1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=F3EC0598-D0D7-4891-A384-C0B4F09F26AD New ItemGUID=FF0EDCF3-B784-4327-A5FE-C7321D1A5DB5 Old RevisionGUID=66425873-1B84-45FE-988E-9FDD4C686E15 New RevisionGUID=046D2B68-F198-4F94-BA6B-D11FB359801F
+Change component parameters: Designator = "MP1" ("MP1"); Footprint = "FP-FA-T220-38E-MFG"; UniqueID = "\FRMZLNDY" ("\FRMZLNDY")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "TO-220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Finish"; Value = "Anodized"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "25.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height Off Base"; Value = "0.984inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "41.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Bolt"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Natural Thermal Resistance"; Value = "4.7°C/W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Cooled"; Value = "TO-220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shape"; Value = "Fins"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thermal Resistance @ Forced Air Flow (100 LFM)"; Value = "3°C/W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "18g"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "25mm"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Hovedkort Member=Component MP1 FA-T220-25E

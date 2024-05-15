@@ -1,0 +1,23 @@
+Added Component: Designator=C21(CAPC2013X115X51ML20T26)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "08052U180GAT2A"; VariantName = "[No Variations]"
+Added Component: Designator=C22(CAPC2013X115X51ML20T26)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "08052U180GAT2A"; VariantName = "[No Variations]"
+Added Component: Designator=MP1(FP-E2A-T220-25E-MFG)
+Add component (AddParameter): Name = "Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Bolt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Natural Thermal Resistance"; Value = "16.4°C/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Cooled"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shape"; Value = "Fins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thermal Resistance @ Forced Air Flow (100 LFM)"; Value = "4°C/W"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=XTALHFOUT Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=XTALHFIN Pin=C22-2
+Added Pin To Net: NetName=GND Pin=MP1-1
+Added Pin To Net: NetName=GND Pin=MP1-2
+Added Member To Class: ClassName=Krets Member=Component C21 08052U180GAT2A
+Added Member To Class: ClassName=Krets Member=Component C22 08052U180GAT2A
+Added Member To Class: ClassName=Krets Member=Component MP1 E2A-T220-25E

@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=D7 Old Footprint=WL-SMCW_0805_150080xx75000 New Footprint=WL-SMCW_0805_150080xx75000
+Change Component Footprint: Designator=D8 Old Footprint=WL-SMCW_0805_150080xx75000 New Footprint=WL-SMCW_0805_150080xx75000
+Change Component Footprint: Designator=D9 Old Footprint=WL-SMCW_0805_150080xx75000 New Footprint=WL-SMCW_0805_150080xx75000
+Added Pin To Net: NetName=MCU1 RX-TX MCU2 Pin=IC1-1
+Added Net: Name=MCU1 RX-TX MCU2

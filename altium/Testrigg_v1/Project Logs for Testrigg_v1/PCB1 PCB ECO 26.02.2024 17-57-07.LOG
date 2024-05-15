@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=U6 NewDesignator=U7
+Added Member To Class: ClassName=Krets Member=Component U1 DRV8871DDA
+Added Member To Class: ClassName=Krets Member=Component U2 ACS712ELCTR-05B-T
+Added Member To Class: ClassName=Krets Member=Component U3 LM324DT
+Added Member To Class: ClassName=Krets Member=Component U4 LF33ABDT-TR
+Added Member To Class: ClassName=Krets Member=Component U7 AVR128DB32-I/PT

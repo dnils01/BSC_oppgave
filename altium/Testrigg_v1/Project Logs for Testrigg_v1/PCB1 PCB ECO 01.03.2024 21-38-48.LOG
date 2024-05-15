@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=SDA Pin=MCU-12
+Removed Pin From Net: NetName=SCL Pin=MCU-13
+Added Member To Class: ClassName=Krets Member=Component U7 AVR128DB32-I/PT

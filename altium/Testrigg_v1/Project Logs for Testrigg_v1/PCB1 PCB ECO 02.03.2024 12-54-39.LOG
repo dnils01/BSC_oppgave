@@ -1,0 +1,6 @@
+Added Component: Designator=R12(RESC2013X70X40ML20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ6ENF3301V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC12_2 Pin=R12-1
+Added Pin To Net: NetName=Gen_current_signal Pin=R12-2
+Added Member To Class: ClassName=Krets Member=Component R12 ERJ6ENF3301V

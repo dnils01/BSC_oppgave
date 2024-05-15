@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=LED3 Pin=J3-2
+Removed Pin From Net: NetName=LED2 Pin=J3-3
+Removed Pin From Net: NetName=LED1 Pin=J3-4
+Removed Pin From Net: NetName=SW3 Pin=J3-6
+Removed Pin From Net: NetName=SW2 Pin=J3-7
+Removed Pin From Net: NetName=SW1 Pin=J3-8
+Added Pin To Net: NetName=SW1 Pin=J3-2
+Added Pin To Net: NetName=SW2 Pin=J3-3
+Added Pin To Net: NetName=SW3 Pin=J3-4
+Added Pin To Net: NetName=LED1 Pin=J3-6
+Added Pin To Net: NetName=LED2 Pin=J3-7
+Added Pin To Net: NetName=LED3 Pin=J3-8

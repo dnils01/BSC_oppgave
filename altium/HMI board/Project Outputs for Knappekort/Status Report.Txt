@@ -1,0 +1,40 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [Knappekort.PrjPcb]
+   Generated File[Knapper og leds_Copper_Signal_Top.gbr]
+   Generated File[Knapper og leds_Copper_Signal_Bot.gbr]
+   Generated File[Knapper og leds_Pads_Bot.gbr]
+   Generated File[Knapper og leds_Pads_Top.gbr]
+   Generated File[Knapper og leds_Legend_Top.gbr]
+   Generated File[Knapper og leds_Legend_Bot.gbr]
+   Generated File[Knapper og leds_Soldermask_Top.gbr]
+   Generated File[Knapper og leds_Soldermask_Bot.gbr]
+   Generated File[Knapper og leds_Paste_Top.gbr]
+   Generated File[Knapper og leds_Paste_Bot.gbr]
+   Generated File[Knapper og leds_Keep-out.gbr]
+   Generated File[Knapper og leds_Mechanical_1.gbr]
+   Generated File[Knapper og leds_Top_Designator.gbr]
+   Generated File[Knapper og leds_Bottom_Designator.gbr]
+   Generated File[Knapper og leds_Top_Assembly.gbr]
+   Generated File[Knapper og leds_Top_Component_Outline.gbr]
+   Generated File[Knapper og leds_Bottom_Component_Outline.gbr]
+   Generated File[Knapper og leds_Top_3D_Body.gbr]
+   Generated File[Knapper og leds_Top_Courtyard.gbr]
+   Generated File[Knapper og leds_Top_Component_Center.gbr]
+   Generated File[Knapper og leds_Bottom_Assembly.gbr]
+   Generated File[Knapper og leds_Bottom_Courtyard.gbr]
+   Generated File[Knapper og leds_Bottom_3D_Body.gbr]
+   Generated File[Knapper og leds_Bottom_Component_Center.gbr]
+   Generated File[Knapper og leds_Profile.gbr]
+   Generated File[Knapper og leds_NPTH_Drill.gbr]
+   Generated File[Knapper og leds_PTH_Drill.gbr]
+   Generated File[Knapper og leds_Drawing_1.gbr]
+   Generated File[Knapper og leds_Drillmap_1.gbr]
+   Generated File[Knapper og leds.EXTREP]
+   Generated File[Knapper og leds.REP]
+
+
+Files Generated   : 31
+Documents Printed : 0
+
+Finished Output Generation At 12:58:19 On 21.03.2024

@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=GND Pin=C29-1
+Removed Pin From Net: NetName=XTALHFIN Pin=C29-2
+Removed Pin From Net: NetName=GND Pin=C32-1
+Removed Pin From Net: NetName=XTALHFOUT Pin=C32-2
+Change Component Footprint: Designator=C29 Old Footprint=CAPC2013X115X51ML20T26 New Footprint=CAPC2013X115X51NL20T26
+Change Component Footprint: Designator=C32 Old Footprint=CAPC2013X115X51ML20T26 New Footprint=CAPC2013X115X51NL20T26
+Change Component Comment : Designator=C29 Old Comment=08052U180GAT2A New Comment=08052U240GAT2A
+Change Component Comment : Designator=C32 Old Comment=08052U180GAT2A New Comment=08052U240GAT2A
+Change Managed Component Library Link : Designator=C29 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=E1CE720A-69A6-4F85-864A-F92CE0E47DD9 New ItemGUID=D6F6BE87-C79F-466C-A764-1CD08AE6F50B Old RevisionGUID=B67400E5-9A0B-467C-9AAB-15E84A72885B New RevisionGUID=0381474B-9350-4E3B-A336-83513FC377EB
+Change Managed Component Library Link : Designator=C32 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=E1CE720A-69A6-4F85-864A-F92CE0E47DD9 New ItemGUID=D6F6BE87-C79F-466C-A764-1CD08AE6F50B Old RevisionGUID=B67400E5-9A0B-467C-9AAB-15E84A72885B New RevisionGUID=0381474B-9350-4E3B-A336-83513FC377EB
+Change component parameters: Designator = "C29" ("C29"); Footprint = "CAPC2013X115X51ML20T26"; UniqueID = "\HBPDHBCM" ("\HBPDHBCM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "08052U240GAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C32" ("C32"); Footprint = "CAPC2013X115X51ML20T26"; UniqueID = "\RUKJDQZN" ("\RUKJDQZN")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "08052U240GAT2A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=XTALHFIN Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C29-2
+Added Pin To Net: NetName=XTALHFOUT Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Member To Class: ClassName=Krets Member=Component C2 08055C104KAT2A
+Added Member To Class: ClassName=Krets Member=Component C8 C0805C102J1GACTU
+Added Member To Class: ClassName=Krets Member=Component C12 08055C104KAT2A
+Added Member To Class: ClassName=Krets Member=Component C13 C0805C103K5RACTU
+Added Member To Class: ClassName=Krets Member=Component C17 C0805C106K8PACTU
+Added Member To Class: ClassName=Krets Member=Component C19 C0805C103K5RACTU
+Added Member To Class: ClassName=Krets Member=Component C20 08055C104KAT2A
+Added Member To Class: ClassName=Krets Member=Component C21 C0805C103K5RACTU
+Added Member To Class: ClassName=Krets Member=Component C22 08055C104KAT2A
+Added Member To Class: ClassName=Krets Member=Component C23 C0805C103K5RACTU
+Added Member To Class: ClassName=Krets Member=Component C24 EEEFK1V220R
+Added Member To Class: ClassName=Krets Member=Component C27 EEE-FK1H100UR
+Added Member To Class: ClassName=Krets Member=Component C29 08052U240GAT2A
+Added Member To Class: ClassName=Krets Member=Component C30 08055C104KAT2A
+Added Member To Class: ClassName=Krets Member=Component C32 08052U240GAT2A
+Added Member To Class: ClassName=Krets Member=Component J1 691103110002
+Added Member To Class: ClassName=Krets Member=Component P3 61300411121
+Added Member To Class: ClassName=Krets Member=Component P4 61300411121
+Added Member To Class: ClassName=Krets Member=Component P6 61300311121
+Added Member To Class: ClassName=Krets Member=Component P7 61300311121
+Added Member To Class: ClassName=Krets Member=Component P8 61300211121
+Added Member To Class: ClassName=Krets Member=Component R2 RC0805FR-07100KL
+Added Member To Class: ClassName=Krets Member=Component R4 RC0805FR-07100KL
+Added Member To Class: ClassName=Krets Member=Component R7 ERJ-6GEYJ303V
+Added Member To Class: ClassName=Krets Member=Component R9 TC33X-2-103E
+Added Member To Class: ClassName=Krets Member=Component R11 TC33X-2-103E
+Added Member To Class: ClassName=Krets Member=Component R12 ERJ-8ENF1002V
+Added Member To Class: ClassName=Krets Member=Component R14 RC0805FR-07100KL
+Added Member To Class: ClassName=Krets Member=Component R16 ERJ-6ENF1001V
+Added Member To Class: ClassName=Krets Member=Component R18 AC05000001008JAC00
+Added Member To Class: ClassName=Krets Member=Component R19 CRCW080510K0FKEA
+Added Member To Class: ClassName=Krets Member=Component R20 ERJ6ENF3301V
+Added Member To Class: ClassName=Krets Member=Component U4 DRV8871DDA
+Added Member To Class: ClassName=Krets Member=Component U7 ACS712ELCTR-05B-T

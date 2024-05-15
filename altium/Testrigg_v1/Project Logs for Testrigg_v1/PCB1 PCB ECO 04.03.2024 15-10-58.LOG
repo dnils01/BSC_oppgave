@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=24V Pin=C29-1
+Removed Pin From Net: NetName=GND Pin=C29-2
+Removed Pin From Net: NetName=24V Pin=C30-1
+Removed Pin From Net: NetName=GND Pin=C30-2
+Removed Pin From Net: NetName=12V Pin=C31-1
+Removed Pin From Net: NetName=GND Pin=C32-2
+Removed Pin From Net: NetName=12V Pin=C33-1
+Removed Pin From Net: NetName=GND Pin=C33-2
+Removed Pin From Net: NetName=12V Pin=L1-2
+Removed Pin From Net: NetName=12V Pin=R21-2
+Removed Pin From Net: NetName=GND Pin=R22-1
+Removed Pin From Net: NetName=GND Pin=R23-1
+Removed Pin From Net: NetName=24V Pin=U8-3
+Removed Pin From Net: NetName=GND Pin=U8-4
+Removed Member From Class: ClassName=Krets Member=C28
+Removed Member From Class: ClassName=Krets Member=C29
+Removed Member From Class: ClassName=Krets Member=C30
+Removed Member From Class: ClassName=Krets Member=C31
+Removed Member From Class: ClassName=Krets Member=C32
+Removed Member From Class: ClassName=Krets Member=C33
+Removed Member From Class: ClassName=Krets Member=L1
+Removed Member From Class: ClassName=Krets Member=R21
+Removed Member From Class: ClassName=Krets Member=R22
+Removed Member From Class: ClassName=Krets Member=R23
+Removed Member From Class: ClassName=Krets Member=U8
+Added Component: Designator=PS1(P78032000RS)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.cui.com/product/resource/p78-2000r-s.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "P7803-2000R-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=24V Pin=PS1-1
+Added Pin To Net: NetName=GND Pin=PS1-2
+Added Pin To Net: NetName=12V Pin=PS1-3
+Added Member To Class: ClassName=Krets Member=Component PS1 P7803-2000R-S
